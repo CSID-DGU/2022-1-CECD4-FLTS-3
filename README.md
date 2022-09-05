@@ -1,5 +1,5 @@
 # superstar-auto-notes-generator
-SSANG
 
+## 참고
 oxai deepsaber:
 https://oxai.org/beatsaber
